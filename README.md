@@ -1,6 +1,8 @@
 
 # Gecko 🦎
 
+![Gecko Example](./example.png)
+
 Gecko displays a line of text, with colours. Use it where you would normally use echo
 
 ## Usage
