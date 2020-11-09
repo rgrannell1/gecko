@@ -12,6 +12,10 @@ gecko "hello world" --bg-red
 gecko --help
 ```
 
+### Stability Index
+
+1, Experimental - This project might die, it's undertested and underdocumented, and redesigns and breaking changes are likely
+
 ### Build
 
 ```
