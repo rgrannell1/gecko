@@ -34,6 +34,8 @@ which gecko
 ### Files
 
 ```
+go.mod       // -- module definition
+go.sum       // -- project sum
 main.go      // -- the program itself.
 README.md    // -- the readme file.
 .gitignore   // -- specifies git-ignored files.
