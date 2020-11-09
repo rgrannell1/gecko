@@ -1,6 +1,8 @@
 
 # Gecko 🦎
 
+![CI](https://github.com/rgrannell1/gecko/workflows/CI/badge.svg)
+
 ![Gecko Example](./example.png)
 
 Gecko displays a line of text, with colours. Use it where you would normally use echo
