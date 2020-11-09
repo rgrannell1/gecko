@@ -19,12 +19,25 @@ go install
 
 ### Installation
 
+```sh
+git clone git@github.com:rgrannell1/gecko.git
+cd gecko
+go build
+go install
+```
+verify the install with
+
+```sh
+which gecko
+```
 
 ### Files
 
 ```
 main.go      // -- the program itself.
-README.md    // -- the readme file
+README.md    // -- the readme file.
+.gitignore   // -- specifies git-ignored files.
+
 ```
 
 ### License
