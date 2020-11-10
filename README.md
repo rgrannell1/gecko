@@ -53,12 +53,14 @@ which gecko
 ### Files
 
 ```
-go.mod       // -- module definition
-go.sum       // -- project sum
-main.go      // -- the program itself.
-README.md    // -- the readme file.
-.gitignore   // -- specifies git-ignored files.
-
+.github/workflows/ci.yaml // -- github actions to run tests
+.gitignore                // -- specifies git-ignored files
+README.md                 // -- the readme file
+example.png               // -- an example image
+go.mod                    // -- module definition
+go.sum                    // -- project sum
+main.go                   // -- the program itself
+main_test.go              // -- tests and benchmarks for the project
 ```
 
 ### License
