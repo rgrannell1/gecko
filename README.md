@@ -3,7 +3,7 @@
 
 ![Gecko Example](./example.png)
 
-Gecko displays a line of text, with colours. Use it where you would normally use echo
+Gecko displays a line of text, with colours. Use it where you would normally use `echo`.
 
 ## Usage
 
@@ -14,13 +14,24 @@ gecko --help
 
 ### Stability Index
 
-1, Experimental - This project might die, it's undertested and underdocumented, and redesigns and breaking changes are likely
+2, Evolving - This project is healthy, but might lack testing or documentation or it is prone to breaking changes
 
 ### Build
 
 ```
 go build
 go install
+```
+Run tests
+```
+go build
+go test
+```
+
+Run benchmarks
+```
+go build
+go test -bench=.
 ```
 
 ### Installation
