@@ -14,10 +14,6 @@ gecko "hello world" --bg-red
 gecko --help
 ```
 
-### Stability Index
-
-2, Evolving - This project is healthy, but might lack testing or documentation or it is prone to breaking changes
-
 ### Build
 
 ```
